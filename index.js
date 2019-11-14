@@ -2,7 +2,7 @@
 // instructions function activates an alert that tells you what to do
 // add feature to select colors from list or color wheel
 
-var colors = ["green", "yellow", "black", "white"];
+var colors = ["pink", "yellow", "purple", "black", "white"];
 var numOfRows = 10;
 var row = 1;
 var rowHighlight = true;
